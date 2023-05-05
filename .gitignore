@@ -1,0 +1,9 @@
+.idea
+venv
+*.zip
+MiniLM-L6-H384-uncased
+MiniLM-L12-H384-uncased
+msmarco-distilbert-cos-v5
+msmarco-MiniLM-L6-cos-v5
+msmarco-MiniLM-L12-cos-v5
+multi-qa-MiniLM-L6-cos-v1
