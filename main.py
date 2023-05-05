@@ -48,5 +48,3 @@ if __name__ == '__main__':
         for doc, score in results:
             print(score, doc)
         print('------------')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
